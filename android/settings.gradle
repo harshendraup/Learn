@@ -1,0 +1,3 @@
+rootProject.name = 'HarshT'
+
+include ':app'
